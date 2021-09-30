@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T18:50:38.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="oJCYIg6eaQyWje0peZ-u" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T18:51:39.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="0njKJL8HmpXc3XnKaqlk" version="15.3.2" type="github">
   <diagram id="RC0JC255c9zAzuLsbYf1" name="Page-1">
-    <mxGraphModel dx="2664" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="wd3Cngt7S95CqOGwH9EE-5" value="JOHN RIMUEL BIGATA&lt;br&gt;IT-4C" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-7" value="Create Projects" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;strokeColor=#2D7600;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-7" value="Create Projects" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;strokeColor=#1BBC9D;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="269" y="180" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wd3Cngt7S95CqOGwH9EE-8" value="Create Teams" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;fontColor=#FFFFFF;strokeColor=#1BBC9D;" vertex="1" parent="1">
