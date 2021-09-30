@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T17:59:04.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="NeaO_pbHyMnO7j-ERMDD" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T18:00:51.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="FMbZLLTtUYpa5AuHu_Lw" version="15.3.2" type="github">
   <diagram id="RC0JC255c9zAzuLsbYf1" name="Page-1">
-    <mxGraphModel dx="2163" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,22 +37,22 @@
         <mxCell id="wd3Cngt7S95CqOGwH9EE-5" value="JOHN RIMUEL BIGATA&lt;br&gt;IT-4C" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-7" value="Create Projects" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-7" value="Create Projects" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;strokeColor=#2D7600;fontColor=#ffffff;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="325" y="190" width="175" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-8" value="Create Teams" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;" vertex="1" parent="1">
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-8" value="Create Teams" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="325" y="370" width="175" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-9" value="Assign Tasks to Team" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;" vertex="1" parent="1">
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-9" value="Assign Tasks to Team" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="325" y="550" width="175" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-10" value="Assign tasks to Team members" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;" vertex="1" parent="1">
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-10" value="Assign tasks to Team members" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="325" y="760" width="175" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-12" value="Create Profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;" vertex="1" parent="1">
-          <mxGeometry x="588" y="240" width="175" height="110" as="geometry" />
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-12" value="Create Profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="588" y="270" width="175" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="wd3Cngt7S95CqOGwH9EE-18" value="Include" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#01aeee;" edge="1" parent="1" source="wd3Cngt7S95CqOGwH9EE-7" target="wd3Cngt7S95CqOGwH9EE-12">
+        <mxCell id="wd3Cngt7S95CqOGwH9EE-18" value="Include" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#01aeee;fontSize=13;" edge="1" parent="1" source="wd3Cngt7S95CqOGwH9EE-7" target="wd3Cngt7S95CqOGwH9EE-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="465" y="225" as="sourcePoint" />
             <mxPoint x="625" y="225" as="targetPoint" />
